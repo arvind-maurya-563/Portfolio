@@ -45,4 +45,11 @@
       document.getElementById("github").addEventListener("click",()=>{
         window.open("https://github.com/MB7232SP","_blank");
       })
+      document.getElementById('Linkedin').addEventListener('click',()=>{
+        window.open("https://www.linkedin.com/in/arvind-maurya-85b955209/","_blank");
+      })
+    
+      document.getElementById('emailcontact').addEventListener('click',()=>{
+        window.open("mailto:mauryaarvind962@gmail.com","_blank");
+      })
     
