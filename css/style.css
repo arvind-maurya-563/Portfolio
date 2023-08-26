@@ -110,8 +110,10 @@ img
     margin-bottom: 30px;
 }
 .abouttextp{
-    font-family: serif;
+    font-family: inherit;
     font-weight: 600;
+    font-size: 18px;
+
 }
 .section-title .sub-title
 {
