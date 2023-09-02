@@ -539,6 +539,7 @@ img
     display: block;
     background-color: var(--main-color);
     margin: 20px auto;
+    object-fit:cover;
 }
 .ServiceItme>div{
     width: 50%;
@@ -1165,4 +1166,10 @@ footer .copyright-text
         grid-template-columns: 1fr;
         gap: 30px;
     }
+}
+.projectitem .About_Project{
+    font-size: 24px;
+}
+.projectHeading{
+    font-size: 30px;
 }
